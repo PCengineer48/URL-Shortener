@@ -1,10 +1,17 @@
 {
+<<<<<<< HEAD
   "name": "fcc-url-shortener-ms",
   "version": "1.0.1",
   "description": "A small url shortener microservice API",
+=======
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "Pass a URL as a parameter and receive a shortened URL in the JSON response.",
+>>>>>>> 1d740b1ff66b3d0df7367a33a115884322bc03e8
   "main": "server.js",
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://github.com/semlak/fcc-url-shortener-ms"
   },
   "keywords": [
@@ -20,6 +27,21 @@
   },
   "author": "Joseph Semlak",
   "license": "MIT",
+=======
+    "url": "git+https://github.com/PCengineer48/url-shortener.git"
+  },
+  "keywords": [
+    "Sedat Can Uygur",
+    "url-shortener",
+    "node"
+  ],
+  "author": "Sedat Can Uygur",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/PCengineer48/url-shortener/issues"
+  },
+  "homepage": "https://github.com/PCengineer48/url-shortener#readme",
+>>>>>>> 1d740b1ff66b3d0df7367a33a115884322bc03e8
   "dependencies": {
     "dotenv": "^1.2.0",
     "express": "^4.12.4",

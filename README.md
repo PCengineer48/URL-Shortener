@@ -1,11 +1,11 @@
 # Author
-![@Rafase282](https://avatars0.githubusercontent.com/Rafase282?&s=128)
+![@PCengineer48](https://avatars0.githubusercontent.com/PCengineer48?&s=128)
 
-Created by Rafase282
+Created by Sedat Can Uygur
 
-[Github](https://github.com/Rafase282) | [FreeCodeCamp](http://www.freecodecamp.com/rafase282) | [CodePen](http://codepen.io/Rafase282/) | [LinkedIn](https://www.linkedin.com/in/rafase282) | [Blog/Site](https://rafase282.wordpress.com/) | [E-Mail](mailto:rafase282@gmail.com)
+[Github](https://github.com/PCengineer48) | [FreeCodeCamp](http://www.freecodecamp.com/pcengineer48) | [CodePen](http://codepen.io/SedatUygur/) | [LinkedIn](https://tr.linkedin.com/in/sedat-can-uygur-1b225473) | [E-Mail](mailto:sedatcan_92@hotmail.com)
 
-# FreeCodeCamp API Basejump: URL Shortener Microservice
+# URL Shortener Service
 ## User stories:
 1. I can pass a URL as a parameter and I will receive a shortened URL in the JSON response.
 2. If I pass an invalid URL that doesn't follow the valid http://www.example.com format, the JSON response will contain an error instead.
@@ -14,19 +14,19 @@ Created by Rafase282
 ## Example creation usage:
 
 ```js
-https://shurli.herokuapp.com/new/https://www.google.com 
-https://shurli.herokuapp.com/new/http://freecodecamp.com/news
+https://url-shortener-project.herokuapp.com/new/https://www.google.com 
+https://url-shortener-project.herokuapp.com/new/http://freecodecamp.com/news
 ```
 
 ## Example creation output:
 
 ```js
-{ "original_url": "http://freecodecamp.com/news", "short_url": "https://shurli.herokuapp.com/4" }
+{ "original_url": "http://freecodecamp.com/news", "short_url": "https://url-shortener-project.herokuapp.com/4" }
 ```
 
 ## Usage:
 
-`https://shurli.herokuapp.com/4`
+`https://url-shortener-project.herokuapp.com/4`
 
 ### Will redirect to:
 
