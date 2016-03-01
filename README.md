@@ -1,9 +1,9 @@
 # Author
-![@Rafase282](https://avatars0.githubusercontent.com/Rafase282?&s=128)
+![@PCengineer48](https://avatars0.githubusercontent.com/PCengineer48?&s=128)
 
-Created by Rafase282
+Created by Sedat Can Uygur
 
-[Github](https://github.com/Rafase282) | [FreeCodeCamp](http://www.freecodecamp.com/rafase282) | [CodePen](http://codepen.io/Rafase282/) | [LinkedIn](https://www.linkedin.com/in/rafase282) | [Blog/Site](https://rafase282.wordpress.com/) | [E-Mail](mailto:rafase282@gmail.com)
+[Github](https://github.com/PCengineer48) | [FreeCodeCamp](http://www.freecodecamp.com/pcengineer48) | [CodePen](http://codepen.io/SedatUygur/) | [LinkedIn](https://tr.linkedin.com/in/sedat-can-uygur-1b225473) | [E-Mail](mailto:sedatcan_92@hotmail.com)
 
 # FreeCodeCamp API Basejump: URL Shortener Microservice
 ## User stories:
