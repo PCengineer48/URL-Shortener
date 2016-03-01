@@ -5,7 +5,7 @@ Created by Sedat Can Uygur
 
 [Github](https://github.com/PCengineer48) | [FreeCodeCamp](http://www.freecodecamp.com/pcengineer48) | [CodePen](http://codepen.io/SedatUygur/) | [LinkedIn](https://tr.linkedin.com/in/sedat-can-uygur-1b225473) | [E-Mail](mailto:sedatcan_92@hotmail.com)
 
-# FreeCodeCamp API Basejump: URL Shortener Microservice
+# URL Shortener Service
 ## User stories:
 1. I can pass a URL as a parameter and I will receive a shortened URL in the JSON response.
 2. If I pass an invalid URL that doesn't follow the valid http://www.example.com format, the JSON response will contain an error instead.
